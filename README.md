@@ -24,4 +24,4 @@ an amalgamation of several variations.
 
 ## Bugs/ Missing Features
 
-# Extend to include other database objects (stored procedures, etc.)
+- Extend to include other database objects (stored procedures, etc.)
