@@ -1,6 +1,7 @@
 @ECHO OFF
 :: \brief Batch file wrapper for Dump SQL Server schema script
 :: \author Ken Keenan, <mailto:ken@kaia.ie>
+SETLOCAL
 
 SET myname=%~0
 :: Add extension if necessary
